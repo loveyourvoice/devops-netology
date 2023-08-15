@@ -42,3 +42,5 @@ on linux_386
 6.1.38_Ubuntur153438
 ```
 
+## Задача 4
+![Image описание](https://i.imgur.com/ZwOoiJX.png)
